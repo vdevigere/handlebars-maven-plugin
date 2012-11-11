@@ -3,6 +3,7 @@ handlebars-maven-plugin
 
 A maven plugin that pre-compiles HandleBars templates 
 Usage:
+<pre><code>
 			<plugin>
 				<groupId>com.viddu.handlebars</groupId>
 				<artifactId>handlebars-maven-plugin</artifactId>
@@ -20,4 +21,4 @@ Usage:
 					</execution>
 				</executions>
 			</plugin>
-
+</code></pre>
